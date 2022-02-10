@@ -1,4 +1,4 @@
-#Cis133-resources
+#CIS133-resources
 
 1. <strong>https://digital.com/tools/html-cheatsheet/</strong> 
     * This resource calls itself a 'cheat sheet' and lists current elements of HTML5. It is very interactive, and it provides a brief description of what the element means an how it works. What I like the most about it is that it actually provides a preview, so that you can visually see how the element is structured.
